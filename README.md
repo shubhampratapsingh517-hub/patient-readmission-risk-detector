@@ -28,7 +28,3 @@ This project uses historical patient data to predict the likelihood of readmissi
 - Scikit-learn  
 - Streamlit  
 - Pickle  
-
----
-
-## 📂 Project Structure
